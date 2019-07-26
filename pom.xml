@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.sample-maven1</groupId>
-    <artifactId>sampleapp--amh</artifactId>
+    <artifactId>sampleapp--amh--amh</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
